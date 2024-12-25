@@ -1,8 +1,8 @@
 {
   "prizes": [
     "gems",
-    "coins",
-    "energy",
+    "gems",
+    "gems",
     "gift",
     "gems",
     "coins",
@@ -11,6 +11,6 @@
     "gems",
     "coins",
     "energy",
-    "gift"
+    "gems"
   ]
 }
